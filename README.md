@@ -28,16 +28,16 @@ fundamentals.
 ## Lab Setup Screenshots
 
 ### 1. Lab Environment
-![Lab Environment](1-screenshot-title-image.png)
+https://github.com/AnkitThakur-AT/Linux-setup-/blob/main/Screenshot%20(282).png
+
 
 ### 2. Network Settings
-![Network Settings](2-screenshot-network-settings-1.png)
+https://github.com/AnkitThakur-AT/Linux-setup-/blob/main/Screenshot%20(283).png
+
+https://github.com/AnkitThakur-AT/Linux-setup-/blob/main/Screenshot%20(284).png
 
 ### 3. Kali Linux
-![Kali Linux](3-screenshot-kali-linux.png)
-
-### 4. Kali Network Configuration
-![Kali Network Configuration](4-screenshot-kali-network-settings.png)
+https://github.com/AnkitThakur-AT/Linux-setup-/blob/main/WhatsApp%20Image%202026-10-29%20at%208.23.03%20PM.jpeg
 
 ## Verification
 
